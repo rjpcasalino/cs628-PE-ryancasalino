@@ -16,6 +16,7 @@ ENV PATH="$PATH:/root/.nvm/versions/node/v22.13.0/bin/"
 ENV NEXT_TELEMETRY_DISABLED=1
 ENV NODE_ENV=development
 
+COPY ./my-next-app /root/my-next-app
 WORKDIR /root/my-next-app
 EXPOSE 3000
 
