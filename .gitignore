@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /TP/my-next-app/node_modules
+/TP/my-next-app/.next
 /.pnp
 .pnp.*
 .yarn/*
