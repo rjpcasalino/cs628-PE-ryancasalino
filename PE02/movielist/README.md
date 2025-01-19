@@ -1,3 +1,8 @@
+# Notes on PE02
+
+I found this PE useful in that it gets me exposed to the "new" React as much has seemed to have changed in the past few years. I thought this was useful to start writing basic React code and seeing the results. I will say I used ollama using Meta's own model to write some of this code because I assumed Meta would have a model that could write some decent JavaScript that conformed to their way of wanting React written. If that makes any sense. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
